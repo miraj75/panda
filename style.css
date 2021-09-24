@@ -18,3 +18,30 @@
     border-radius: 8px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: #ff136f;
+}
+.cat3{
+    background-color: rgba(77, 129, 226, 0.644);
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+   
+}
+#copyright{
+    text-align: center;
+}
